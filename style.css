@@ -1,5 +1,5 @@
 body, div {
-  font-size: 1.05em;
+  font-size: 1.1em;
   font-family: monospace;
   text-transform: capitalize;
   color: #00632e;
@@ -8,7 +8,7 @@ body, div {
 a,h1,h2,h3,h4 {
   color: #339d64;
 }
-.heading {
+h3 {
   color: #339d64;
   text-decoration: underline;
 }
