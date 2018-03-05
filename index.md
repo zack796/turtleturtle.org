@@ -31,6 +31,7 @@ title: TurtleTurtle.org
 [tradesatoshi.com](https://tradesatoshi.com/Exchange/?market=TRTL_DOGE) → Tradesatoshi Exchange [DOGE]  
 
 ### Pools
+[turtle.coolmining.club](https://turtle.coolmining.club) → CoolMiningClub Turtle Pool Europe   
 [trtl.flashpool.club](https://trtl.flashpool.club/) → EU FlashPool  
 [us.turtlepool.space](http://us.turtlepool.space/) → USA TurtlePool  
 [turtlecoinpool.ddns.net](http://turtlecoinpool.ddns.net/) → DDNS TurtleCoinPool  
