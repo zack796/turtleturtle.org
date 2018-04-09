@@ -60,5 +60,6 @@ title: TurtleTurtle.org
 [TurtleCoin-Wallet](https://github.com/turtlecoin/desktop-xamarin) → Xamarin GUI Wallet  
 [TurtleBot](https://github.com/CaptainMeatloaf/TurtleBot) → TurtleBot - Network Stats Monitor  
 [TRTLBot](https://github.com/beezTEM/TRTLBot) → TRTLBot - Market listings, Wallet Lookup  
+[trtlbot++](https://github.com/krruzic/trtlbotplusplus) → Tip Bot
 [Turtle Faucet](https://faucet.trtl.me) → Captcha Some Turtles  
 [arch linux user package](https://aur.archlinux.org/packages/turtlecoin-git/) → wreiner's package of core for arch linux  
