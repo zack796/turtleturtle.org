@@ -32,8 +32,7 @@ title: TurtleTurtle.org
 [turtle.coolmining.club](https://turtle.coolmining.club) → CoolMiningClub Turtle Pool Europe   
 [trtl.flashpool.club](https://trtl.flashpool.club/) → EU FlashPool  
 [us.turtlepool.space](http://us.turtlepool.space/) → USA TurtlePool  
-[turtlecoinpool.ddns.net](http://turtlecoinpool.ddns.net/) → DDNS TurtleCoinPool  
-[slowandsteady.fun ](http://slowandsteady.fun/) → Slow and Steady  
+[turtlecoinpool.ddns.net](http://turtlecoinpool.ddns.net/) → DDNS TurtleCoinPool 
 [turtle.atpool.party](http://turtle.atpool.party/) → Sweden ATPool.party  
 [eu.turtlepool.space](http://eu.turtlepool.space/) → EUR TurtlePool  
 [hk.turtlepool.space](http://hk.turtlepool.space/) → HK TurtlePool  
