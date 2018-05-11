@@ -17,16 +17,17 @@ title: TurtleTurtle.org
 [twitter.turtlecoin.lol](https://twitter.com/_turtlecoin) → Twitter  
 [reddit.turtlecoin.lol](https://trtl.reddit.com) → Reddit  
 [github.turtlecoin.lol](https://github.com/turtlecoin) → GitHub  
-[discord.turtlecoin.lol](https://discord.gg/NZ7QYJA) → Discord  
+[chat.turtlecoin.lol](https://discord.gg/NZ7QYJA) → Discord  
 
 ### Guides
-[getstarted.turtlecoin.lol](https://github.com/turtlecoin/turtlecoin/wikis) → TurtleCoin Wiki  
+[wiki.turtlecoin.lol](https://github.com/turtlecoin/turtlecoin/wikis) → TurtleCoin Wiki  
 
 
 ### Markets
 [turtle-market.turtlecoin.lol](https://discord.gg/NZ7QYJA) → TurtleCoin OTC Trade Market  
 [tradeogre.com](https://tradeogre.com) → TradeOgre Exchange [BTC]  
-[tradesatoshi.com](https://tradesatoshi.com/Exchange/?market=TRTL_BTC) → Tradesatoshi Exchange [BTC]   
+[tradesatoshi.com](https://tradesatoshi.com/Exchange/?market=TRTL_BTC) → Tradesatoshi Exchange [BTC]
+[altex.exchange](https://altex.exchange/markets&pair=BTC_TRTL)  → Altex Exchange
 
 ### Pools
 [slowandsteady.fun](http://slowandsteady.fun) → Slow and Steady Fun (USA Dallas)
@@ -52,8 +53,11 @@ title: TurtleTurtle.org
 [turtlenode.io](http://turtlenode.io) → Iburnmycd's public daemon service  
 
 ### Projects  
-[Turtle Python Wallet](https://github.com/turtlecoin/turtle-wallet) → Python GUI Wallet  
-[Turtle Xamarin Wallet](https://github.com/turtlecoin/desktop-xamarin) → Xamarin GUI Wallet  
+[Turtle Nest GUI](https://github.com/turtlecoin/turtle-wallet-go)
+[Turtle winforms GUI](https://github.com/turtlecoin/turtle-wallet-winforms)
+[Turtle python GUI](https://github.com/turtlecoin/turtle-wallet-python)
+[Turtle electron GUI](https://github.com/turtlecoin/turtle-wallet-electron)
+[Turtle c# GUI](https://github.com/turtlecoin/turtle-wallet-csharp)
 [TurtleBot](https://github.com/CaptainMeatloaf/TurtleBot) → TurtleBot - Network Stats Monitor 
 [trtlbot++](https://github.com/krruzic/trtlbotplusplus) → Tip Bot
 [Turtle Faucet](https://faucet.trtl.me) → Captcha Some Turtles  
