@@ -8,7 +8,6 @@ title: TurtleTurtle.org
 [github.turtlecoin.lol](https://github.com/turtlecoin) → Development  
 
 ### Block Explorers
-[turtle-coin.com](http://turtle-coin.com) → Watter's Block Explorer  
 [blocks.turtle.link](https://blocks.turtle.link) → Tom's Block Explorer and APIs  
 [turtle-block.com](https://turtle-block.com) → Cision's Block Explorer
 
