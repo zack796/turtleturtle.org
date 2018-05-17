@@ -41,14 +41,14 @@ title: TurtleTurtle.org
 [z-pool.com](http://z-pool.com) → Z-Pool (EU North)  
 [pool.turtleco.in](http://pool.turtleco.in/) → USA West TurtleCo.In  
 [trtl.mine2gether.com](http://trtl.mine2gether.com/) → Mine2gether  
-[auspool.turtleco.in](http://auspool.turtleco.in/) → AUS TurtleCo.In  
-[trtlpool.ninja](http://trtlpool.ninja/) → trtlpool.ninja  
-[pool.trtl.me](http://pool.trtl.me/) → pool.trtl.me  
+ 
+ 
+ 
 [cryptoknight.cc/turtle](http://cryptoknight.cc/turtle/) → CryptoKnight's TRTL Pool
 [trtl.cryptohispano.net](http://trtl.cryptohispano.net) → Cryptohispano TRTL Pool (Only in Spanish)
 
 ### Public Daemons
-[daemon.turtle.link:11898](http://daemon.turtle.link:11898) → Tom's public daemon 
+
 [turtlenode.io](http://turtlenode.io) → Iburnmycd's public daemon service  
 
 ### Projects  
