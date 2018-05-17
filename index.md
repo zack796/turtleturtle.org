@@ -21,7 +21,6 @@ title: TurtleTurtle.org
 ### Guides
 [wiki.turtlecoin.lol](https://github.com/turtlecoin/turtlecoin/wikis) → TurtleCoin Wiki  
 
-
 ### Markets
 [turtle-market.turtlecoin.lol](https://discord.gg/NZ7QYJA) → TurtleCoin OTC Trade Market  
 [tradeogre.com](https://tradeogre.com) → TradeOgre Exchange [BTC]  
@@ -41,14 +40,10 @@ title: TurtleTurtle.org
 [z-pool.com](http://z-pool.com) → Z-Pool (EU North)  
 [pool.turtleco.in](http://pool.turtleco.in/) → USA West TurtleCo.In  
 [trtl.mine2gether.com](http://trtl.mine2gether.com/) → Mine2gether  
- 
- 
- 
 [cryptoknight.cc/turtle](http://cryptoknight.cc/turtle/) → CryptoKnight's TRTL Pool
 [trtl.cryptohispano.net](http://trtl.cryptohispano.net) → Cryptohispano TRTL Pool (Only in Spanish)
 
 ### Public Daemons
-
 [turtlenode.io](http://turtlenode.io) → Iburnmycd's public daemon service  
 
 ### Projects  
