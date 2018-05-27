@@ -10,6 +10,7 @@ title: TurtleTurtle.org
 ### Block Explorers
 [blocks.turtle.link](https://blocks.turtle.link) → Tom's Block Explorer and APIs  
 [turtle-block.com](https://turtle-block.com) → Cision's Block Explorer
+[trtl-explorer.xhub.cloud](https://trtl-explorer.xhub.cloud) → polar-it's Block Explorer and public daemon service 
 
 ### Social
 [facebook.turtlecoin.lol](https://www.facebook.com/groups/204815433401566/) → Facebook Group  
@@ -45,6 +46,7 @@ title: TurtleTurtle.org
 
 ### Public Daemons
 [turtlenode.io](http://turtlenode.io) → Iburnmycd's public daemon service  
+[trtl-explorer.xhub.cloud](https://trtl-explorer.xhub.cloud) → polar-it's Block Explorer and public daemon service 
 
 ### Projects  
 [Turtle Nest GUI](https://github.com/turtlecoin/turtle-wallet-go)
@@ -56,3 +58,7 @@ title: TurtleTurtle.org
 [trtlbot++](https://github.com/krruzic/trtlbotplusplus) → Tip Bot
 [Turtle Faucet](https://faucet.trtl.me) → Captcha Some Turtles  
 [arch linux user package](https://aur.archlinux.org/packages/turtlecoin-git/) → wreiner's package of core for arch linux  
+
+### Faucet
+[faucet.trtl.me] (https://faucet.trtl.me) → krruzic's TurtleCoin Faucet
+[turtlecoin-faucet.xhub.cloud] (http://turtlecoin-faucet.xhub.cloud) polar-it's TurtleCoin Faucet based on krruzic's code
