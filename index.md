@@ -50,15 +50,16 @@ title: TurtleTurtle.org
 [trtl-explorer.xhub.cloud](https://trtl-explorer.xhub.cloud) → polar-it's Block Explorer and public daemon service 
 
 ### Projects  
-[Turtle Nest GUI](https://github.com/turtlecoin/turtle-wallet-go)  
-[Turtle winforms GUI](https://github.com/turtlecoin/turtle-wallet-winforms)  
-[Turtle python GUI](https://github.com/turtlecoin/turtle-wallet-python)  
-[Turtle electron GUI](https://github.com/turtlecoin/turtle-wallet-electron)  
-[Turtle c# GUI](https://github.com/turtlecoin/turtle-wallet-csharp)  
-[TurtleBot](https://github.com/CaptainMeatloaf/TurtleBot) → TurtleBot - Network Stats Monitor   
-[trtlbot++](https://github.com/krruzic/trtlbotplusplus) → Tip Bot  
-[Turtle Faucet](https://faucet.trtl.me) → Captcha Some Turtles    
-[arch linux user package](https://aur.archlinux.org/packages/turtlecoin-git/) → wreiner's package of core for arch linux    
+[Turtle Nest GUI](https://github.com/turtlecoin/turtle-wallet-go)
+[Turtle winforms GUI](https://github.com/turtlecoin/turtle-wallet-winforms)
+[Turtle python GUI](https://github.com/turtlecoin/turtle-wallet-python)
+[Turtle electron GUI](https://github.com/turtlecoin/turtle-wallet-electron)
+[Turtle c# GUI](https://github.com/turtlecoin/turtle-wallet-csharp)
+[TurtleBot](https://github.com/CaptainMeatloaf/TurtleBot) → TurtleBot - Network Stats Monitor 
+[trtlbot++](https://github.com/krruzic/trtlbotplusplus) → Tip Bot
+[Turtle Faucet](https://faucet.trtl.me) → Captcha Some Turtles  
+[arch linux user package](https://aur.archlinux.org/packages/turtlecoin-git/) → wreiner's package of core for arch linux 
+[TurtleCoin Supply](http://turtlecoin.supply) → Check current and future TurtleCoin's supply.
 
 ### Faucet
 [faucet.trtl.me](https://faucet.trtl.me) → krruzic's TurtleCoin Faucet  
