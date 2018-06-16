@@ -9,8 +9,9 @@ title: TurtleTurtle.org
 
 ### Block Explorers
 [blocks.turtle.link](https://blocks.turtle.link) → Tom's Block Explorer and APIs  
-[turtle-block.com](https://turtle-block.com) → Cision's Block Explorer
-[trtl-explorer.xhub.cloud](https://trtl-explorer.xhub.cloud) → polar-it's Block Explorer and public daemon service 
+[turtle-block.com](https://turtle-block.com) → Cision's Block Explorer  
+[trtl-explorer.xhub.cloud](https://trtl-explorer.xhub.cloud) → polar-it's Block Explorer and public daemon service  
+[Turtle.Land](https://turtle.land/) → Close0ne Explorer - Usefull Links - Wallets etc...
 
 ### Social
 [facebook.turtlecoin.lol](https://www.facebook.com/groups/204815433401566/) → Facebook Group  
@@ -25,15 +26,15 @@ title: TurtleTurtle.org
 ### Markets
 [turtle-market.turtlecoin.lol](https://discord.gg/NZ7QYJA) → TurtleCoin OTC Trade Market  
 [tradeogre.com](https://tradeogre.com) → TradeOgre Exchange [BTC]  
-[tradesatoshi.com](https://tradesatoshi.com/Exchange/?market=TRTL_BTC) → Tradesatoshi Exchange [BTC]
+[tradesatoshi.com](https://tradesatoshi.com/Exchange/?market=TRTL_BTC) → Tradesatoshi Exchange [BTC]  
 [altex.exchange](https://altex.exchange/markets&pair=BTC_TRTL)  → Altex Exchange
 
 ### Pools
-[slowandsteady.fun](http://slowandsteady.fun) → Slow and Steady Fun (USA Dallas)
+[slowandsteady.fun](http://slowandsteady.fun) → Slow and Steady Fun (USA Dallas)  
 [turtle.coolmining.club](https://turtle.coolmining.club) → CoolMiningClub Turtle Pool Europe   
 [trtl.flashpool.club](https://trtl.flashpool.club/) → EU FlashPool  
 [us.turtlepool.space](http://us.turtlepool.space/) → USA TurtlePool  
-[turtlecoinpool.ddns.net](http://turtlecoinpool.ddns.net/) → DDNS TurtleCoinPool 
+[turtlecoinpool.ddns.net](http://turtlecoinpool.ddns.net/) → DDNS TurtleCoinPool   
 [turtle.atpool.party](http://turtle.atpool.party/) → Sweden ATPool.party  
 [eu.turtlepool.space](http://eu.turtlepool.space/) → EUR TurtlePool  
 [hk.turtlepool.space](http://hk.turtlepool.space/) → HK TurtlePool  
@@ -60,7 +61,6 @@ title: TurtleTurtle.org
 [arch linux user package](https://aur.archlinux.org/packages/turtlecoin-git/) → wreiner's package of core for arch linux 
 [TurtleCoin Supply](http://turtlecoin.supply) → Check current and future TurtleCoin's supply.
 
-
 ### Faucet
-[faucet.trtl.me] (https://faucet.trtl.me) → krruzic's TurtleCoin Faucet
-[turtlecoin-faucet.xhub.cloud] (http://turtlecoin-faucet.xhub.cloud) polar-it's TurtleCoin Faucet based on krruzic's code
+[faucet.trtl.me](https://faucet.trtl.me) → krruzic's TurtleCoin Faucet  
+[turtlecoin-faucet.xhub.cloud](http://turtlecoin-faucet.xhub.cloud) polar-it's TurtleCoin Faucet based on krruzic's code
