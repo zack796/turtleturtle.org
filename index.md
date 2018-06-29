@@ -11,7 +11,7 @@ title: TurtleTurtle.org
 [blocks.turtle.link](https://blocks.turtle.link) → Tom's Block Explorer and APIs  
 [turtle-block.com](https://turtle-block.com) → Cision's Block Explorer  
 [trtl-explorer.xhub.cloud](https://trtl-explorer.xhub.cloud) → polar-it's Block Explorer and public daemon service  
-[explorer.trtlpwr.cc](https://explorer.trtlpwr.cc/) Pypper's block explorer
+[explorer.trtlpwr.cc](https://explorer.trtlpwr.cc) Pypper's block explorer
 [Turtle.Land](https://turtle.land/) → Close0ne Explorer - Usefull Links - Wallets etc...
 
 ### Social
