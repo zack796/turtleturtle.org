@@ -47,6 +47,7 @@ title: TurtleTurtle.org
 [cryptoknight.cc/turtle](http://cryptoknight.cc/turtle/) → CryptoKnight's TRTL Pool  
 [trtl.cryptohispano.net](https://trtl.cryptohispano.net) → Cryptohispano TRTL Pool (Only in Spanish)  
 [turtle.minersunite.net](https://turtle.minersunite.net) → Minersunite Pool (Germany)
+[turtle.psrcrpyto.com](http://turtle.psrcrypto.com) → PSR CRYPTO's TRTL Pool 
 
 ### Public Daemons
 [turtlenode.io](http://turtlenode.io) → Iburnmycd's public daemon service  
