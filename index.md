@@ -24,6 +24,7 @@ title: TurtleTurtle.org
 
 ### Guides
 [wiki.turtlecoin.lol](https://github.com/turtlecoin/turtlecoin/wikis) → TurtleCoin Wiki  
+[Funky Penguin's TRTL Stew Recipe](https://geek-cookbook.funkypenguin.co.nz/recipies/turtle-pool/) → Step-by-step guide to building a pool under docker swarm  
 
 ### Markets
 [turtle-market.turtlecoin.lol](https://discord.gg/NZ7QYJA) → TurtleCoin OTC Trade Market  
@@ -47,6 +48,7 @@ title: TurtleTurtle.org
 [cryptoknight.cc/turtle](http://cryptoknight.cc/turtle/) → CryptoKnight's TRTL Pool  
 [trtl.cryptohispano.net](https://trtl.cryptohispano.net) → Cryptohispano TRTL Pool (Only in Spanish)  
 [turtle.minersunite.net](https://turtle.minersunite.net) → Minersunite Pool (Germany)
+[trtl.heigh-ho.funkypenguin.co.nz](https://trtl.heigh-ho.funkypenguin.co.nz) → Funky Penguin's TRTL Stew^H^H^H^H Pool (New Zealand)
 [turtle.psrcrpyto.com](http://turtle.psrcrypto.com) → PSR CRYPTO's TRTL Pool 
 
 ### Public Daemons
