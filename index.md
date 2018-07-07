@@ -49,6 +49,7 @@ title: TurtleTurtle.org
 [trtl.cryptohispano.net](https://trtl.cryptohispano.net) → Cryptohispano TRTL Pool (Only in Spanish)  
 [turtle.minersunite.net](https://turtle.minersunite.net) → Minersunite Pool (Germany)
 [trtl.heigh-ho.funkypenguin.co.nz](https://trtl.heigh-ho.funkypenguin.co.nz) → Funky Penguin's TRTL Stew^H^H^H^H Pool (New Zealand)
+[turtle.psrcrpyto.com](http://turtle.psrcrypto.com) → PSR CRYPTO's TRTL Pool 
 
 ### Public Daemons
 [turtlenode.io](http://turtlenode.io) → Iburnmycd's public daemon service  
