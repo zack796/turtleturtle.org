@@ -20,10 +20,11 @@ title: TurtleTurtle.org
 [twitter.turtlecoin.lol](https://twitter.com/_turtlecoin) → Twitter  
 [reddit.turtlecoin.lol](https://trtl.reddit.com) → Reddit  
 [github.turtlecoin.lol](https://github.com/turtlecoin) → GitHub  
-[chat.turtlecoin.lol](https://discord.gg/NZ7QYJA) → Discord  
+[chat.turtlecoin.lol](http://chat.turtlecoin.lol) → Discord  
 
 ### Guides
 [wiki.turtlecoin.lol](https://github.com/turtlecoin/turtlecoin/wikis) → TurtleCoin Wiki  
+[docs.turtlecooin.lol](https://docs.turtlecoin.lol) → MkDocs frontend for TurtleCoin Wiki  
 [Funky Penguin's TRTL Stew Recipe](https://geek-cookbook.funkypenguin.co.nz/recipies/turtle-pool/) → Step-by-step guide to building a pool under docker swarm  
 
 ### Markets
@@ -58,10 +59,10 @@ title: TurtleTurtle.org
 
 ### Projects  
 [Turtle Nest GUI](https://github.com/turtlecoin/turtle-wallet-go)  
-[Turtle winforms GUI](https://github.com/turtlecoin/turtle-wallet-winforms)  
-[Turtle python GUI](https://github.com/turtlecoin/turtle-wallet-python)  
-[Turtle electron GUI](https://github.com/turtlecoin/turtle-wallet-electron)  
-[Turtle c# GUI](https://github.com/turtlecoin/turtle-wallet-csharp)  
+[Turtle WinForms GUI](https://github.com/turtlecoin/turtle-wallet-winforms)  
+[Turtle Python GUI](https://github.com/turtlecoin/turtle-wallet-python)  
+[Turtle Electron GUI](https://github.com/turtlecoin/turtle-wallet-electron)  
+[Turtle C# GUI](https://github.com/turtlecoin/turtle-wallet-csharp)  
 [TurtleBot](https://github.com/CaptainMeatloaf/TurtleBot) → TurtleBot - Network Stats Monitor  
 [trtlbot++](https://github.com/krruzic/trtlbotplusplus) → Tip Bot  
 [Turtle Faucet](https://faucet.trtl.me) → Captcha Some Turtles  
