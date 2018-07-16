@@ -27,10 +27,11 @@ title: TurtleTurtle.org
 [Funky Penguin's TRTL Stew Recipe](https://geek-cookbook.funkypenguin.co.nz/recipies/turtle-pool/) → Step-by-step guide to building a pool under docker swarm  
 
 ### Markets
-[turtle-market.turtlecoin.lol](https://discord.gg/NZ7QYJA) → TurtleCoin OTC Trade Market  
+[turtle-market.turtlecoin.lol](https://discord.gg/rMr8fxf) → TurtleCoin OTC Trade Market  
 [tradeogre.com](https://tradeogre.com) → TradeOgre Exchange [BTC]  
 [tradesatoshi.com](https://tradesatoshi.com/Exchange/?market=TRTL_BTC) → Tradesatoshi Exchange [BTC]  
 [altex.exchange](https://altex.exchange/markets&pair=BTC_TRTL)  → Altex Exchange
+[maplechange.com](https://maplechange.com) → Maplechange
 
 ### Pools
 [slowandsteady.fun](http://slowandsteady.fun) → Slow and Steady Fun (USA Dallas)  
@@ -67,6 +68,7 @@ title: TurtleTurtle.org
 [Turtle Faucet](https://faucet.trtl.me) → Captcha Some Turtles  
 [arch linux user package](https://aur.archlinux.org/packages/turtlecoin-git/) → wreiner's package of core for arch linux  
 [TurtleCoin Supply](http://turtlecoin.supply) → Check current and future TurtleCoin's supply.  
+[TurtleCoin Snail Races](https://discord.gg/xUyS7Xm) → discord for turtlecoin snail racing
 
 ### Faucet
 [faucet.trtl.me](https://faucet.trtl.me) → krruzic's TurtleCoin Faucet  
