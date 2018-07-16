@@ -53,6 +53,7 @@ title: TurtleTurtle.org
 [trtl.heigh-ho.funkypenguin.co.nz](https://trtl.heigh-ho.funkypenguin.co.nz) → Funky Penguin's TRTL Stew^H^H^H^H Pool (New Zealand)  
 [turtle.psrcrypto.com](http://turtle.psrcrypto.com) → PSR CRYPTO's TRTL Pool  
 [turtleminers.club](http://turtleminers.club) → Turtle Miners Club TRTL Pool (USA)  
+[turtle.imhard4.men](http://turtle.imhard4.men/) → Turtlecoin Mining Pool
 
 ### Public Daemons
 [turtlenode.io](http://turtlenode.io) → Iburnmycd's public daemon service  
