@@ -11,8 +11,8 @@ title: TurtleTurtle.org
 [blocks.turtle.link](https://blocks.turtle.link) → Tom's Block Explorer and APIs  
 [turtle-block.com](https://turtle-block.com) → Cision's Block Explorer  
 [trtl-explorer.xhub.cloud](https://trtl-explorer.xhub.cloud) → polar-it's Block Explorer and public daemon service  
-[explorer.trtlpwr.cc](https://explorer.trtlpwr.cc) Pypper's block explorer  
-[Turtle.Land](https://turtle.land/) → Close0ne Explorer - Usefull Links - Wallets etc...
+[explorer.trtlpwr.cc](https://explorer.trtlpwr.cc) → Pypper's block explorer  
+[Turtle.Land](https://turtle.land/) → Close0ne Explorer - Useful Links - Wallets etc...
 
 ### Social
 [instagram.turtlecoin.lol](https://www.instagram.com/_turtlecoin/) → Instagram                                                                             
@@ -31,7 +31,7 @@ title: TurtleTurtle.org
 [turtle-market.turtlecoin.lol](https://discord.gg/rMr8fxf) → TurtleCoin OTC Trade Market  
 [tradeogre.com](https://tradeogre.com) → TradeOgre Exchange [BTC]  
 [tradesatoshi.com](https://tradesatoshi.com/Exchange/?market=TRTL_BTC) → Tradesatoshi Exchange [BTC]  
-[altex.exchange](https://altex.exchange/markets&pair=BTC_TRTL)  → Altex Exchange
+[altex.exchange](https://altex.exchange/markets&pair=BTC_TRTL) → Altex Exchange  
 [maplechange.com](https://maplechange.com) → Maplechange
 
 ### Pools
@@ -43,14 +43,14 @@ title: TurtleTurtle.org
 [turtle.atpool.party](http://turtle.atpool.party/) → Sweden ATPool.party  
 [eu.turtlepool.space](http://eu.turtlepool.space/) → EUR TurtlePool  
 [hk.turtlepool.space](http://hk.turtlepool.space/) → HK TurtlePool  
-[ny.minetrtl.us](http://ny.minetrtl.us) → MineTRTL.us (USA NYC) 
+[ny.minetrtl.us](http://ny.minetrtl.us) → MineTRTL.us (USA NYC)  
 [z-pool.com](http://z-pool.com) → Z-Pool (EU North)  
 [pool.turtleco.in](http://pool.turtleco.in/) → USA West TurtleCo.In  
 [trtl.mine2gether.com](http://trtl.mine2gether.com/) → Mine2gether  
 [cryptoknight.cc/turtle](http://cryptoknight.cc/turtle/) → CryptoKnight's TRTL Pool  
 [trtl.cryptohispano.net](https://trtl.cryptohispano.net) → Cryptohispano TRTL Pool (Only in Spanish)  
 [turtle.minersunite.net](https://turtle.minersunite.net) → Minersunite Pool (Germany)  
-[trtl.heigh-ho.funkypenguin.co.nz](https://trtl.heigh-ho.funkypenguin.co.nz) → Funky Penguin's TRTL Stew^H^H^H^H Pool (New Zealand)  
+[trtl.heigh-ho.funkypenguin.co.nz](https://trtl.heigh-ho.funkypenguin.co.nz) → Funky Penguin's TRTL Stew Pool (New Zealand)  
 [turtle.psrcrypto.com](http://turtle.psrcrypto.com) → PSR CRYPTO's TRTL Pool  
 [turtleminers.club](http://turtleminers.club) → Turtle Miners Club TRTL Pool (USA)  
 [turtle.imhard4.men](http://turtle.imhard4.men/) → Turtlecoin Mining Pool
@@ -70,8 +70,10 @@ title: TurtleTurtle.org
 [Turtle Faucet](https://faucet.trtl.me) → Captcha Some Turtles  
 [arch linux user package](https://aur.archlinux.org/packages/turtlecoin-git/) → wreiner's package of core for arch linux  
 [TurtleCoin Supply](http://turtlecoin.supply) → Check current and future TurtleCoin's supply.  
-[TurtleCoin Snail Races](https://discord.gg/xUyS7Xm) → discord for turtlecoin snail racing
+[TurtleCoin Snail Races](https://discord.gg/xUyS7Xm) → Discord for TurtleCoin snail racing  
+[Turtle Miner](http://turtleminer.com/) → Web Miner for TurtleCoin  
+[Turtacus Website](http://turtacus.com/) → Website for Turtacus (for viewing stats, leaderboard, and information about the colosseum in Discord)
 
-### Faucet
+### Faucets
 [faucet.trtl.me](https://faucet.trtl.me) → krruzic's TurtleCoin Faucet  
 [turtlecoin-faucet.xhub.cloud](http://turtlecoin-faucet.xhub.cloud) polar-it's TurtleCoin Faucet based on krruzic's code
