@@ -35,6 +35,7 @@ title: TurtleTurtle.org
 [maplechange.com](https://maplechange.com) → Maplechange
 
 ### Pools
+[Turtle.Casa](https://turtle.casa/) → Close0ne Pool - Pool for Turtle.Land explorer...
 [slowandsteady.fun](http://slowandsteady.fun) → Slow and Steady Fun (USA Dallas)  
 [turtle.coolmining.club](https://turtle.coolmining.club) → CoolMiningClub Turtle Pool Europe   
 [trtl.flashpool.club](https://trtl.flashpool.club/) → EU FlashPool  
