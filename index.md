@@ -75,7 +75,7 @@ title: TurtleTurtle.org
 [TurtleCoin Snail Races](https://discord.gg/xUyS7Xm) → Discord for TurtleCoin snail racing  
 [Turtle Miner](http://turtleminer.com/) → Web Miner for TurtleCoin  
 [Turtacus Website](http://turtacus.com/) → Website for Turtacus (for viewing stats, leaderboard, and information about the colosseum in Discord)
-[Turtacus Video Interviews](https://turtlecoin.github.io/video/ → Playlist of TurtleCoin related videos and interviews.
+[Turtacus Video Interviews](https://turtlecoin.github.io/video/) → Playlist of TurtleCoin related videos and interviews.
 
 ### Faucets
 [faucet.trtl.me](https://faucet.trtl.me) → krruzic's TurtleCoin Faucet  
