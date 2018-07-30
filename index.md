@@ -35,6 +35,7 @@ title: TurtleTurtle.org
 [maplechange.com](https://maplechange.com) → Maplechange
 
 ### Pools
+[Turtle.Casa](https://turtle.casa/) → Close0ne Pool - Pool for Turtle.Land explorer...
 [slowandsteady.fun](http://slowandsteady.fun) → Slow and Steady Fun (USA Dallas)  
 [turtle.coolmining.club](https://turtle.coolmining.club) → CoolMiningClub Turtle Pool Europe   
 [trtl.flashpool.club](https://trtl.flashpool.club/) → EU FlashPool  
@@ -74,7 +75,14 @@ title: TurtleTurtle.org
 [TurtleCoin Snail Races](https://discord.gg/xUyS7Xm) → Discord for TurtleCoin snail racing  
 [Turtle Miner](http://turtleminer.com/) → Web Miner for TurtleCoin  
 [Turtacus Website](http://turtacus.com/) → Website for Turtacus (for viewing stats, leaderboard, and information about the colosseum in Discord)
+[Turtacus Video Interviews](https://turtlecoin.github.io/video/ → Playlist of TurtleCoin related videos and interviews.
 
 ### Faucets
 [faucet.trtl.me](https://faucet.trtl.me) → krruzic's TurtleCoin Faucet  
 [turtlecoin-faucet.xhub.cloud](http://turtlecoin-faucet.xhub.cloud) → polar-it's TurtleCoin Faucet based on krruzic's code
+
+### Asset Trackers
+[CoinMarketCap](https://coinmarketcap.com/currencies/turtlecoin/)  
+[CoinGecko](https://www.coingecko.com/en/coins/turtlecoin)  
+[LiveCoinWatch](https://www.livecoinwatch.com/price/TurtleCoin-TRTL)  
+
