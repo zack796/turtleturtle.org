@@ -54,7 +54,8 @@ title: TurtleTurtle.org
 [trtl.heigh-ho.funkypenguin.co.nz](https://trtl.heigh-ho.funkypenguin.co.nz) → Funky Penguin's TRTL Stew Pool (New Zealand)  
 [turtle.psrcrypto.com](http://turtle.psrcrypto.com) → PSR CRYPTO's TRTL Pool  
 [turtleminers.club](http://turtleminers.club) → Turtle Miners Club TRTL Pool (USA)  
-[turtle.imhard4.men](http://turtle.imhard4.men/) → Turtlecoin Mining Pool
+[turtle.imhard4.men](http://turtle.imhard4.men/) → Turtlecoin Mining Pool  
+[trtl.proxpool.com](http://trtl.proxpool.com/) → Proxpool TRTL Mining Pool
 
 ### Public Daemons
 [turtlenode.io](http://turtlenode.io) → Iburnmycd's public daemon service  
@@ -78,9 +79,10 @@ title: TurtleTurtle.org
 
 ### Faucets
 [faucet.trtl.me](https://faucet.trtl.me) → krruzic's TurtleCoin Faucet  
-[turtlecoin-faucet.xhub.cloud](http://turtlecoin-faucet.xhub.cloud) polar-it's TurtleCoin Faucet based on krruzic's code
+[turtlecoin-faucet.xhub.cloud](http://turtlecoin-faucet.xhub.cloud) → polar-it's TurtleCoin Faucet based on krruzic's code
 
 ### Asset Trackers
 [CoinMarketCap](https://coinmarketcap.com/currencies/turtlecoin/)  
 [CoinGecko](https://www.coingecko.com/en/coins/turtlecoin)  
 [LiveCoinWatch](https://www.livecoinwatch.com/price/TurtleCoin-TRTL)  
+
