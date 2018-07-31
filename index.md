@@ -19,8 +19,8 @@ title: TurtleTurtle.org
 ### Social
 [instagram.turtlecoin.lol](https://www.instagram.com/_turtlecoin/) → Instagram  
 [facebook.turtlecoin.lol](https://www.facebook.com/groups/204815433401566/) → Facebook Group  
-[twitter.turtlecoin.lol](https://twitter.com/_turtlecoin) → Twitter 
-[medium.com](https://medium.com/@turtlecoin) → Medium Blog 
+[twitter.turtlecoin.lol](https://twitter.com/_turtlecoin) → Twitter  
+[medium.com](https://medium.com/@turtlecoin) → Medium Blog  
 [reddit.turtlecoin.lol](https://trtl.reddit.com) → Reddit  
 [github.turtlecoin.lol](https://github.com/turtlecoin) → GitHub  
 [chat.turtlecoin.lol](http://chat.turtlecoin.lol) → Discord  
@@ -28,22 +28,22 @@ title: TurtleTurtle.org
 ### Guides
 [wiki.turtlecoin.lol](https://github.com/turtlecoin/turtlecoin/wikis) → TurtleCoin Wiki  
 [docs.turtlecooin.lol](https://docs.turtlecoin.lol) → MkDocs frontend for TurtleCoin Wiki  
-[funkypenguin.co.nz](https://geek-cookbook.funkypenguin.co.nz/recipies/turtle-pool/) → Docker Swarm Pool Setup
-[docs.turtlecoin.lol](https://docs.turtlecoin.lol/guides/using-trtlbot-plus-plus/) → Tip Jar Guide
+[funkypenguin.co.nz](https://geek-cookbook.funkypenguin.co.nz/recipies/turtle-pool/) → Docker Swarm Pool Setup  
+[docs.turtlecoin.lol](https://docs.turtlecoin.lol/guides/using-trtlbot-plus-plus/) → Tip Jar Guide  
 
 
 ### Decentralized Exchanges
-[openbazaar.org](https://openbazaar.org) → OpenBazaar Market [BTC/BCH/ZEC]
-[bisq.network](https://bisq.network) → Bisq Network [BTC]
+[openbazaar.org](https://openbazaar.org) → OpenBazaar Market [BTC/BCH/ZEC]  
+[bisq.network](https://bisq.network) → Bisq Network [BTC]  
 
-### Centralized Exchanges
+### Centralized Exchanges  
 [tradeogre.com](https://tradeogre.com) → TradeOgre Exchange [BTC]  
 [tradesatoshi.com](https://tradesatoshi.com/Exchange/?market=TRTL_BTC) → Tradesatoshi Exchange [BTC]  
 [altex.exchange](https://altex.exchange/markets&pair=BTC_TRTL) → Altex Exchange  
-[maplechange.com](https://maplechange.com) → Maplechange
+[maplechange.com](https://maplechange.com) → Maplechange  
 
 ### Pools
-[Turtle.Casa](https://turtle.casa/) → Close0ne Pool - Pool for Turtle.Land explorer...
+[Turtle.Casa](https://turtle.casa/) → Close0ne Pool - Pool for Turtle.Land explorer  
 [slowandsteady.fun](http://slowandsteady.fun) → Slow and Steady Fun (USA Dallas)  
 [turtle.coolmining.club](https://turtle.coolmining.club) → CoolMiningClub Turtle Pool Europe   
 [trtl.flashpool.club](https://trtl.flashpool.club/) → EU FlashPool  
