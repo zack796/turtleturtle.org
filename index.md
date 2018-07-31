@@ -4,8 +4,10 @@ title: TurtleTurtle.org
 ---
 ### Official
 [turtlecoin.lol](http://turtlecoin.lol) → Official TurtleCoin Website  
-[blog.turtlecoin.lol](https://medium.com/@turtlecoin) → TurtleCoin Dev Blog  
+[blog.turtlecoin.lol](https://blog.turtlecoin.lol) → TurtleCoin Dev Blog  
 [github.turtlecoin.lol](https://github.com/turtlecoin) → Development  
+[chat.turtlecoin.lol](http://chat.turtlecoin.lol) → Discord Chat  
+[encrypted.turtlecoin.lol](https://keybase.io/turtlecoin) → Encrypted Chat & Public Keys  
 
 ### Block Explorers
 [blocks.turtle.link](https://blocks.turtle.link) → Tom's Block Explorer and APIs  
@@ -15,9 +17,10 @@ title: TurtleTurtle.org
 [Turtle.Land](https://turtle.land/) → Close0ne Explorer - Useful Links - Wallets etc...
 
 ### Social
-[instagram.turtlecoin.lol](https://www.instagram.com/_turtlecoin/) → Instagram                                                                             
+[instagram.turtlecoin.lol](https://www.instagram.com/_turtlecoin/) → Instagram  
 [facebook.turtlecoin.lol](https://www.facebook.com/groups/204815433401566/) → Facebook Group  
-[twitter.turtlecoin.lol](https://twitter.com/_turtlecoin) → Twitter  
+[twitter.turtlecoin.lol](https://twitter.com/_turtlecoin) → Twitter 
+[medium.com](https://medium.com/@turtlecoin) → Medium Blog 
 [reddit.turtlecoin.lol](https://trtl.reddit.com) → Reddit  
 [github.turtlecoin.lol](https://github.com/turtlecoin) → GitHub  
 [chat.turtlecoin.lol](http://chat.turtlecoin.lol) → Discord  
@@ -25,10 +28,15 @@ title: TurtleTurtle.org
 ### Guides
 [wiki.turtlecoin.lol](https://github.com/turtlecoin/turtlecoin/wikis) → TurtleCoin Wiki  
 [docs.turtlecooin.lol](https://docs.turtlecoin.lol) → MkDocs frontend for TurtleCoin Wiki  
-[Funky Penguin's TRTL Stew Recipe](https://geek-cookbook.funkypenguin.co.nz/recipies/turtle-pool/) → Step-by-step guide to building a pool under docker swarm  
+[funkypenguin.co.nz](https://geek-cookbook.funkypenguin.co.nz/recipies/turtle-pool/) → Docker Swarm Pool Setup
+[docs.turtlecoin.lol](https://docs.turtlecoin.lol/guides/using-trtlbot-plus-plus/) → Tip Jar Guide
 
-### Markets
-[turtle-market.turtlecoin.lol](https://discord.gg/rMr8fxf) → TurtleCoin OTC Trade Market  
+
+### Decentralized Exchanges
+[openbazaar.org](https://openbazaar.org) → OpenBazaar Market [BTC/BCH/ZEC]
+[bisq.network](https://bisq.network) → Bisq Network [BTC]
+
+### Centralized Exchanges
 [tradeogre.com](https://tradeogre.com) → TradeOgre Exchange [BTC]  
 [tradesatoshi.com](https://tradesatoshi.com/Exchange/?market=TRTL_BTC) → Tradesatoshi Exchange [BTC]  
 [altex.exchange](https://altex.exchange/markets&pair=BTC_TRTL) → Altex Exchange  
@@ -74,7 +82,7 @@ title: TurtleTurtle.org
 [TurtleCoin Supply](http://turtlecoin.supply) → Check current and future TurtleCoin's supply.  
 [TurtleCoin Snail Races](https://discord.gg/xUyS7Xm) → Discord for TurtleCoin snail racing  
 [Turtle Miner](http://turtleminer.com/) → Web Miner for TurtleCoin  
-[Turtacus Website](http://turtacus.com/) → Website for Turtacus (for viewing stats, leaderboard, and information about the colosseum in Discord)
+[Turtacus Website](http://turtacus.com/) → Turtacus Info & Stats
 [Turtacus Video Interviews](https://turtlecoin.github.io/video/) → Playlist of TurtleCoin related videos and interviews.
 
 ### Faucets
@@ -82,7 +90,16 @@ title: TurtleTurtle.org
 [turtlecoin-faucet.xhub.cloud](http://turtlecoin-faucet.xhub.cloud) → polar-it's TurtleCoin Faucet based on krruzic's code
 
 ### Asset Trackers
-[CoinMarketCap](https://coinmarketcap.com/currencies/turtlecoin/)  
-[CoinGecko](https://www.coingecko.com/en/coins/turtlecoin)  
-[LiveCoinWatch](https://www.livecoinwatch.com/price/TurtleCoin-TRTL)  
+[CoinMarketCap](https://coinmarketcap.com/currencies/turtlecoin/) → CoinMarketCap  
+[CoinGecko](https://www.coingecko.com/en/coins/turtlecoin) → CoinGecko  
+[LiveCoinWatch](https://www.livecoinwatch.com/price/TurtleCoin-TRTL) → LiveCoinWatch   
+[CryptoCompare](https://www.cryptocompare.com/coins/trtl/overview/BTC) → CryptoCompare   
+[WorldCoinIndex](https://www.worldcoinindex.com/coin/turtlecoin) → WorldCoinIndex  
+[Coinranking](https://coinranking.com/coin/turtlecoin-trtl) → Coinranking  
+[CoinCodex](https://coincodex.com/crypto/turtlecoin/) → CoinCodex   
+[CoinLib](https://coinlib.io/coin/TRTL/TurtleCoin) → CoinLib  
+[CryptoPricer](https://cryptopricer.net/currency/turtlecoin) → CryptoPricer  
+[Cryptjoker](https://cryptjoker.com/trtl/) → Cryptjoker  
+[Cryptolization](https://cryptolization.com/turtlecoin) → Cryptolization  
+
 
