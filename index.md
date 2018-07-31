@@ -82,7 +82,7 @@ title: TurtleTurtle.org
 [TurtleCoin Supply](http://turtlecoin.supply) → Check current and future TurtleCoin's supply.  
 [TurtleCoin Snail Races](https://discord.gg/xUyS7Xm) → Discord for TurtleCoin snail racing  
 [Turtle Miner](http://turtleminer.com/) → Web Miner for TurtleCoin  
-[Turtacus Website](http://turtacus.com/) → Turtacus Info & Stats
+[Turtacus Website](http://turtacus.com/) → Turtacus Info & Stats  
 [TurtleCoin Video Interviews](https://turtlecoin.github.io/video/) → Playlist of TurtleCoin related videos and interviews.
 
 ### Faucets
