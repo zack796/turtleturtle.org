@@ -41,6 +41,7 @@ title: TurtleTurtle.org
 [tradesatoshi.com](https://tradesatoshi.com/Exchange/?market=TRTL_BTC) → Tradesatoshi Exchange [BTC]  
 [altex.exchange](https://altex.exchange/markets&pair=BTC_TRTL) → Altex Exchange  
 [maplechange.com](https://maplechange.com) → Maplechange  
+[simpleswap.io](https://simpleswap.io) → SimpleSwap
 
 ### Pools
 [Turtle.Casa](https://turtle.casa/) → Close0ne Pool - Pool for Turtle.Land explorer  
@@ -101,5 +102,5 @@ title: TurtleTurtle.org
 [CryptoPricer](https://cryptopricer.net/currency/turtlecoin) → CryptoPricer  
 [Cryptjoker](https://cryptjoker.com/trtl/) → Cryptjoker  
 [Cryptolization](https://cryptolization.com/turtlecoin) → Cryptolization  
-
+[CryptoChartIndex](https://cryptochartindex.com/currency/turtlecoin) → CryptoChartIndex
 
