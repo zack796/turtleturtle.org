@@ -57,7 +57,6 @@ title: TurtleTurtle.org
 [z-pool.com](http://z-pool.com) → Z-Pool (EU North)  
 [pool.turtleco.in](http://pool.turtleco.in/) → USA West TurtleCo.In  
 [trtl.mine2gether.com](http://trtl.mine2gether.com/) → Mine2gether  
-[cryptoknight.cc/turtle](http://cryptoknight.cc/turtle/) → CryptoKnight's TRTL Pool  
 [trtl.cryptohispano.net](https://trtl.cryptohispano.net) → Cryptohispano TRTL Pool (Only in Spanish)  
 [turtle.minersunite.net](https://turtle.minersunite.net) → Minersunite Pool (Germany)  
 [trtl.heigh-ho.funkypenguin.co.nz](https://trtl.heigh-ho.funkypenguin.co.nz) → Funky Penguin's TRTL Stew Pool (New Zealand)  
