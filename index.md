@@ -63,6 +63,7 @@ title: TurtleTurtle.org
 [turtlecoinpool.ddns.net](http://turtlecoinpool.ddns.net/) → DDNS TurtleCoinPool  
 [turtleminers.club](http://turtleminers.club) → Turtle Miners Club TRTL Pool (USA)  
 [us.turtlepool.space](http://us.turtlepool.space/) → USA TurtlePool  
+[trtl.bluerockpools.com](https://trtl.bluerockpools.net/) → BlueRockPools Turtle Pool
 
 ### Public Daemons
 [trtl-explorer.xhub.cloud](https://trtl-explorer.xhub.cloud) → polar-it's Block Explorer and public daemon service  
