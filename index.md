@@ -85,6 +85,9 @@ title: TurtleTurtle.org
 [Turtle WinForms GUI](https://github.com/turtlecoin/turtle-wallet-winforms)  
 [TwitchTurtle](https://twitchturtle.com) → Streamlabs TurtleCoin integration  
 
+### Payment Integrations
+[TwitchTurtle](https://twitchturtle.com) → Streamlabs TurtleCoin integration  
+
 ### Faucets
 [faucet.trtl.me](https://faucet.trtl.me) → krruzic's TurtleCoin Faucet  
 [turtlecoin-faucet.xhub.cloud](http://turtlecoin-faucet.xhub.cloud) → polar-it's TurtleCoin Faucet based on krruzic's code  
