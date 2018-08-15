@@ -49,6 +49,7 @@ title: TurtleTurtle.org
 [ny.minetrtl.us](http://ny.minetrtl.us) → MineTRTL.us (USA NYC)  
 [pool.turtleco.in](http://pool.turtleco.in/) → USA West TurtleCo.In  
 [slowandsteady.fun](http://slowandsteady.fun) → Slow and Steady Fun (USA Dallas)  
+[trtl.bluerockpools.com](https://trtl.bluerockpools.net/) → BlueRockPools Turtle Pool  
 [trtl.cryptohispano.net](https://trtl.cryptohispano.net) → Cryptohispano TRTL Pool (Only in Spanish)  
 [trtl.flashpool.club](https://trtl.flashpool.club/) → EU FlashPool  
 [trtl.heigh-ho.funkypenguin.co.nz](https://trtl.heigh-ho.funkypenguin.co.nz) → Funky Penguin's TRTL Stew Pool (New Zealand)  
