@@ -39,7 +39,7 @@ title: TurtleTurtle.org
 [altex.exchange](https://altex.exchange/markets&pair=BTC_TRTL) → Altex Exchange  
 [maplechange.com](https://maplechange.com) → Maplechange  
 [simpleswap.io](https://simpleswap.io) → SimpleSwap  
-[tradeogre.com](https://tradeogre.com) → TradeOgre Exchange [BTC]  
+[tradeogre.com](https://tradeogre.com) → TradeOgre Exchange [BTC/LTC]  
 [tradesatoshi.com](https://tradesatoshi.com/Exchange/?market=TRTL_BTC) → Tradesatoshi Exchange [BTC]  
 
 ### Pools
@@ -72,6 +72,7 @@ title: TurtleTurtle.org
 ### Projects  
 [arch linux user package](https://aur.archlinux.org/packages/turtlecoin-git/) → wreiner's package of core for arch linux  
 [trtlbot++](https://github.com/krruzic/trtlbotplusplus) → Tip Bot  
+[trtlpixels](http://www.trtlpixels.com) → Community Pixel Art Tool for TRTL
 [Turtacus Website](http://turtacus.com/) → Turtacus Info & Stats  
 [TurtleBot](https://github.com/CaptainMeatloaf/TurtleBot) → TurtleBot - Network Stats Monitor  
 [Turtle C# GUI](https://github.com/turtlecoin/turtle-wallet-csharp)  
