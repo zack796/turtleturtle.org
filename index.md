@@ -32,15 +32,14 @@ title: TurtleTurtle.org
 [wiki.turtlecoin.lol](https://github.com/turtlecoin/turtlecoin/wikis) → TurtleCoin Wiki  
 
 ### Decentralized Exchanges
-[bisq.network](https://bisq.network) → Bisq Network [BTC]  
-[openbazaar.org](https://openbazaar.org) → OpenBazaar Market [BTC/BCH/ZEC]  
+[bisq.network](https://bisq.network) → Bisq Network  
+[openbazaar.org](https://openbazaar.org) → OpenBazaar Market   
 
 ### Centralized Exchanges  
 [altex.exchange](https://altex.exchange/markets&pair=BTC_TRTL) → Altex Exchange  
 [maplechange.com](https://maplechange.com) → Maplechange  
-[simpleswap.io](https://simpleswap.io) → SimpleSwap  
-[tradeogre.com](https://tradeogre.com) → TradeOgre Exchange [BTC/LTC]  
-[tradesatoshi.com](https://tradesatoshi.com/Exchange/?market=TRTL_BTC) → Tradesatoshi Exchange [BTC]  
+[tradeogre.com](https://tradeogre.com) → TradeOgre Exchange   
+[tradesatoshi.com](https://tradesatoshi.com/Exchange/?market=TRTL_BTC) → Tradesatoshi Exchange   
 
 ### Pools
 
