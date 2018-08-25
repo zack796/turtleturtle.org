@@ -9,6 +9,11 @@ title: TurtleTurtle.org
 [chat.turtlecoin.lol](http://chat.turtlecoin.lol) → Discord Chat  
 [encrypted.turtlecoin.lol](https://keybase.io/turtlecoin) → Encrypted Chat & Public Keys  
 
+### Public Daemons
+[trtl-explorer.xhub.cloud](https://trtl-explorer.xhub.cloud) → polar-it's Block Explorer and public daemon service  
+[turtlenode.io](http://turtlenode.io) → Iburnmycd's public daemon service  
+[turtlenode.net](https://turtlenode.net) → Polar-it's European Public Daemon Service  
+
 ### Block Explorers
 [blocks.turtle.link](https://blocks.turtle.link) → Tom's Block Explorer and APIs  
 [explorer.trtlpwr.cc](https://explorer.trtlpwr.cc) → Pypper's block explorer  
@@ -42,7 +47,6 @@ title: TurtleTurtle.org
 [tradesatoshi.com](https://tradesatoshi.com/Exchange/?market=TRTL_BTC) → Tradesatoshi Exchange   
 
 ### Pools
-
 [eu.turtlepool.space](http://eu.turtlepool.space/) → EUR TurtlePool  
 [hk.turtlepool.space](http://hk.turtlepool.space/) → HK TurtlePool  
 [ny.minetrtl.us](http://ny.minetrtl.us) → MineTRTL.us (USA NYC)  
@@ -64,10 +68,6 @@ title: TurtleTurtle.org
 [turtleminers.club](http://turtleminers.club) → Turtle Miners Club TRTL Pool (USA)  
 [us.turtlepool.space](http://us.turtlepool.space/) → USA TurtlePool  
 
-### Public Daemons
-[trtl-explorer.xhub.cloud](https://trtl-explorer.xhub.cloud) → polar-it's Block Explorer and public daemon service  
-[turtlenode.io](http://turtlenode.io) → Iburnmycd's public daemon service  
-
 ### Projects  
 [arch linux user package](https://aur.archlinux.org/packages/turtlecoin-git/) → wreiner's package of core for arch linux  
 [trtlbot++](https://github.com/krruzic/trtlbotplusplus) → Tip Bot  
@@ -88,6 +88,7 @@ title: TurtleTurtle.org
 
 ### Payment Integrations
 [TwitchTurtle](https://twitchturtle.com) → Streamlabs TurtleCoin integration  
+[WooTurtle](https://github.com/turtlecoin/woo-turtle) → WooCommerce TurtleCoin integration  
 
 ### Faucets
 [faucet.trtl.me](https://faucet.trtl.me) → krruzic's TurtleCoin Faucet  
