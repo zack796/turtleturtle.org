@@ -47,6 +47,7 @@ title: TurtleTurtle.org
 [tradesatoshi.com](https://tradesatoshi.com/Exchange/?market=TRTL_BTC) → Tradesatoshi Exchange   
 
 ### Pools
+[cryptonote.social/trtl](https://cryptonote.social/trtl) → Predictable-Solo TRTL pool (USA West)  
 [eu.turtlepool.space](http://eu.turtlepool.space/) → EUR TurtlePool  
 [hk.turtlepool.space](http://hk.turtlepool.space/) → HK TurtlePool  
 [ny.minetrtl.us](http://ny.minetrtl.us) → MineTRTL.us (USA NYC)  
