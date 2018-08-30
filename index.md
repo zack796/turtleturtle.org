@@ -72,7 +72,7 @@ title: TurtleTurtle.org
 ### Projects  
 [arch linux user package](https://aur.archlinux.org/packages/turtlecoin-git/) → wreiner's package of core for arch linux  
 [trtlbot++](https://github.com/krruzic/trtlbotplusplus) → Tip Bot  
-[trtlpixels](http://www.trtlpixels.com) → Community Pixel Art Tool for TRTL
+[trtlpixels](http://www.trtlpixels.com) → Community Pixel Art Tool for TRTL  
 [Turtacus Website](http://turtacus.com/) → Turtacus Info & Stats  
 [TurtleBot](https://github.com/CaptainMeatloaf/TurtleBot) → TurtleBot - Network Stats Monitor  
 [Turtle C# GUI](https://github.com/turtlecoin/turtle-wallet-csharp)  
