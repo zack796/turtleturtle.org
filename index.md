@@ -74,6 +74,7 @@ title: TurtleTurtle.org
 [trtlbot++](https://github.com/krruzic/trtlbotplusplus) → Tip Bot  
 [trtlpixels](http://www.trtlpixels.com) → Community Pixel Art Tool for TRTL  
 [Turtacus Website](http://turtacus.com/) → Turtacus Info & Stats  
+[Turtacus Leaderboard](http://turtacus.com/leaderboard) → Turtacus Leaderboard  
 [TurtleBot](https://github.com/CaptainMeatloaf/TurtleBot) → TurtleBot - Network Stats Monitor  
 [Turtle C# GUI](https://github.com/turtlecoin/turtle-wallet-csharp)  
 [TurtleCoin Snail Races](https://discord.gg/xUyS7Xm) → Discord for TurtleCoin snail racing  
@@ -110,4 +111,3 @@ title: TurtleTurtle.org
 [CryptoPricer](https://cryptopricer.net/currency/turtlecoin) → CryptoPricer  
 [LiveCoinWatch](https://www.livecoinwatch.com/price/TurtleCoin-TRTL) → LiveCoinWatch  
 [WorldCoinIndex](https://www.worldcoinindex.com/coin/turtlecoin) → WorldCoinIndex  
-
