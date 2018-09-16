@@ -87,7 +87,7 @@ title: TurtleTurtle.org
 [Turtle Python GUI](https://github.com/turtlecoin/turtle-wallet-python)  
 [Turtle WinForms GUI](https://github.com/turtlecoin/turtle-wallet-winforms)  
 [TwitchTurtle](https://twitchturtle.com) → Streamlabs TurtleCoin integration  
-[TRTL CLI](https://github.com/mrrovot/trtl-cli) → CLI tool to check TurtleCoin network status and community activity.  
+[TRTL CLI](https://github.com/turtlecoin/turtle-network-cli) → CLI tool to check TurtleCoin network status and community activity.  
 [shellnet.pw](https://shellnet.pw) → A web wallet for TurtleCoin payments  
 
 ### Payment Integrations
