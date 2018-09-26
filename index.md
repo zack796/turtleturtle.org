@@ -13,7 +13,9 @@ title: TurtleTurtle.org
 [turtlenode.online](https://turtlenode.online) → morpheus' public daemon service  
 [trtl-explorer.xhub.cloud](https://trtl-explorer.xhub.cloud) → polar-it's Block Explorer and public daemon service  
 [turtlenode.io](http://turtlenode.io) → Iburnmycd's public daemon service  
-[turtlenode.net](https://turtlenode.net) → Polar-it's European Public Daemon Service  
+[turtlenode.net](https://turtlenode.net) → Polar-it's European Public Daemon Service
+[turtlenode.gocrypto.ro](https://turtlenode.gocrypto.ro) → GoCrypto's (Romania) Public Daemon Service  
+
 
 ### Block Explorers
 [blocks.turtle.link](https://blocks.turtle.link) → Tom's Block Explorer and APIs  
