@@ -1,4 +1,8 @@
 const nodes = [
+    // turtlenode.online
+    { name: 'london.turtlenode.io', api: 'http://london.turtlenode.online/getinfo', hostname: 'turtlenode.online', port: 11898, region: 'UK' },
+    { name: 'val.turtlenode.io', api: 'http://val.turtlenode.online/getinfo', hostname: 'val.turtlenode.online', port: 11898, region: 'GER' },
+    { name: 'dsmash.turtlenode.io', api: 'http://dsmash.turtlenode.online/getinfo', hostname: 'dsmash.turtlenode.online', port: 11898, region: 'GER' },
     // turtlenode.io
     { name: 'us-west.turtlenode.io', api: 'https://api.turtlenode.io/node-1.nyc.turtlenode.io/getinfo', hostname: 'node-1.nyc.turtlenode.io', port: 11898, region: 'US West' },
     { name: 'us-east.turtlenode.io', api: 'https://api.turtlenode.io/node-2.nyc.turtlenode.io/getinfo', hostname: 'node-2.nyc.turtlenode.io', port: 11898, region: 'US East' },
