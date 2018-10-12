@@ -98,7 +98,7 @@ title: TurtleTurtle.org
 [WooTurtle](https://github.com/turtlecoin/woo-turtle) → WooCommerce TurtleCoin integration  
 
 ### Merchants
-[trtl-store](https://trtl-store.com) → TurtleCoin merchandise - all prices in TRTL all payments in TRTL
+[trtl-store](https://trtl-store.com) → TurtleCoin merchandise - all prices in TRTL all payments in TRTL  
 
 ### Faucets
 [faucet.trtl.me](https://faucet.trtl.me) → krruzic's TurtleCoin Faucet  
@@ -117,5 +117,6 @@ title: TurtleTurtle.org
 [CryptoPricer](https://cryptopricer.net/currency/turtlecoin) → CryptoPricer  
 [LiveCoinWatch](https://www.livecoinwatch.com/price/TurtleCoin-TRTL) → LiveCoinWatch  
 [WorldCoinIndex](https://www.worldcoinindex.com/coin/turtlecoin) → WorldCoinIndex  
+
 ### Darkweb
 [trtljx3ovmd7kjlc.onion](http://trtljx3ovmd7kjlc.onion/) → Tor hidden service of this site  
