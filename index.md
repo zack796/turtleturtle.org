@@ -45,7 +45,6 @@ title: TurtleTurtle.org
 
 ### Centralized Exchanges  
 [altex.exchange](https://altex.exchange/markets&pair=BTC_TRTL) → Altex Exchange  
-[maplechange.com](https://maplechange.com) → Maplechange  
 [tradeogre.com](https://tradeogre.com) → TradeOgre Exchange   
 [tradesatoshi.com](https://tradesatoshi.com/Exchange/?market=TRTL_BTC) → Tradesatoshi Exchange   
 
